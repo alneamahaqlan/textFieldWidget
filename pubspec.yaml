@@ -1,6 +1,6 @@
 name: alneamah
-description: "Customized TextField With Many Features."
-version: 1.2.0
+description: Open screens/snackbars/dialogs without context, manage states and inject dependencies easily with GetX.
+version: 2.0.0
 homepage: https://github.com/alneamahaqlan/textFieldWidget
 
 

@@ -1,4 +1,3 @@
-## 1.2.0
+## [2.0.0]
 
-modify many things .
-fix bags .
+-Fix null issues, fixed issues in the latest flutter version
